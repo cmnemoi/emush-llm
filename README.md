@@ -1,8 +1,8 @@
-# emush-llm
+# emush-rag
 
-A LLM-based API which can anwser questions about eMush game.
+A RAG-powered API which can anwser questions about eMush game.
 
-## Getting started
+## Contributing
 
 You need [Python 3.12](https://www.python.org/downloads/) and [Poetry](https://python-poetry.org/) installed to run the project.
 
